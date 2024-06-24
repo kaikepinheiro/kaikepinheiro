@@ -1,6 +1,6 @@
 <h2 align="center">Oi! Meu nome é Kaike Pinheiro Simplicio 👋</h2>
   
-- 🔭 Atualmente estou no 2°Ano do ensino médio cursando TI
+- 🔭 Atualmente estou no 3°Ano do ensino médio cursando TI
 - 🌱 Estou atualmente estudando: CSharp & Javascript
 - 📩 E-mail de contato: kaikepsimplicio4@gmail.com
 
